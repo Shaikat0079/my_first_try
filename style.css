@@ -1,0 +1,45 @@
+h1{
+   text-align: center;
+   color:deeppink; 
+}
+h3{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: crimson;
+}
+.box{
+    border: 5px solid yellowgreen;
+    text-align: justify;
+    width: 50%;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: black;
+}
+
+.box p{
+    color: whitesmoke;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
+#info{
+    border: 10px solid dimgrey;
+    text-align: justify;
+    width: 50%;
+    margin: 20px auto;
+    padding: 30px;
+    background-color: black;
+}
+
+#info img{
+    height: 540px;
+    width: 360px;
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+}
+#info p{
+    color: wheat;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: justify;
+}
